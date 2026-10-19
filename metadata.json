@@ -1,0 +1,6 @@
+{
+  "name": "AuraDesk Music Player",
+  "description": "High-fidelity desktop audio player for laptop listening with graphic EQ, live visualizers, ambient soundscapes, local file import, and curated stations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
